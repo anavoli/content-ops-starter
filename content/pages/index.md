@@ -294,7 +294,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: Title of the video
+      title: Title of the video_neško
       url: /images/placeholder-video.mp4
       autoplay: true
       loop: true
