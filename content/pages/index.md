@@ -140,7 +140,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Get started_kreni
         altText: ''
         url: /
         showIcon: false
