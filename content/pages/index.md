@@ -63,7 +63,7 @@ sections:
     subtitle: Subtitle goes here_13
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 500k+
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
